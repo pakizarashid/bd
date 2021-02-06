@@ -1,2 +1,2 @@
 # bd
-happr birthday
+happy birthday
